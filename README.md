@@ -5,9 +5,9 @@ This is a digital version of the famous __WHAC_A_MOLE__ game. Mole appears rando
 ---
 
 ## __Snapshots of Game__
-![images in markdown](Images\WHAC_A_MOLE_SS-1.jpg)
+![images in markdown](Images/WHAC_A_MOLE_SS-1.jpg)
 
-![images in markdown](Images\WHAC_A_MOLE_SS-2.jpg)
+![images in markdown](Images/WHAC_A_MOLE_SS-2.jpg)
 
 ---
 
