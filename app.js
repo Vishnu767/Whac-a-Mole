@@ -30,7 +30,7 @@ function checkMole(){
 }
 
 function moveMole(){
-    timerId = setInterval(randomSquare, 750)
+    timerId = setInterval(randomSquare, 500)
     countDownTimer = setInterval(countDown, 1000)
     button.removeEventListener('click', moveMole)
 }
